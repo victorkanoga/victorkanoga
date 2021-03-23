@@ -1,0 +1,2 @@
+- 👋 Hi, I’m victor kanoga
+- 👀 I’m interested in kotin
